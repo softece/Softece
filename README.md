@@ -5,7 +5,7 @@ software company. Built with plain HTML, CSS and vanilla JavaScript — no build
 no dependencies, no framework to keep up to date.
 
 **Live site:** enable GitHub Pages on the `main` branch to publish at
-`https://fuad2e3.github.io/Softece/`
+`[https://fuad2e3.github.io/Softece](https://softece.github.io/Softece/)/`
 
 ---
 
